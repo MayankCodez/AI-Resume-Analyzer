@@ -1,0 +1,4 @@
+streamlit>=1.48
+groq>=1.7
+python-dotenv
+pypdf
